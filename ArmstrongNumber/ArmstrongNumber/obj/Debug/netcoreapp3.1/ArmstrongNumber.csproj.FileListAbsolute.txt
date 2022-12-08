@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.exe
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.deps.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.dll
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+C:\Users\naruto\Desktop\BridgeLabz\C#PracticePrograms\LogicalPrograms\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.genruntimeconfig.cache
