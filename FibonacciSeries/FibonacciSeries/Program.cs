@@ -20,11 +20,11 @@ namespace FibonacciSeries
             //printing the remaning term of fibonacci series
             for(int i = 2; i < count; i++)
             {
-                //now we need to get the next term which is next term is sum of privious two term
+                //now we need to get the next term which is next term is sum of previous two term
                 p3 = p1 + p2;
                 Console.Write(" " + p3);
-                p1 = p2; //assining p2 value to p1 value
-                p2 = p3; //assining p3 value to p2 value
+                p1 = p2; //assigning p2 value to p1 value
+                p2 = p3; //assigning p3 value to p2 value
             }
             Console.WriteLine();  
         }
